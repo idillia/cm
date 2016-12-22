@@ -1,0 +1,6929 @@
+{
+ "appreciations": [
+  {
+   "id": "32",
+   "label": "Meredith Morton (Sarah Jessica Parker) in the Family Stone",
+   "content": "<p><img alt=\\\"Meredith Morton\\\" width=\\\"300\\\" height=\\\"196\\\" src=\\\"%%export14824289863679.gif%%#5\\\" /></p><p>&nbsp;</p><p>Reliable, organized, and serious, you&#39;re Meredith from the Family Stone. You&#39;ve got a genuine soul, but the chaos of large Christmas gatherings might overwhelm you... Have a sip of eggnog and relax! It&#39;s Christmas after all.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "33",
+   "label": "Iron Man from Iron Man 3",
+   "content": "<p><img alt=\\\"Iron Man\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824289911853.gif%%\\\" /></p><p>Like Iron Man, you&#39;re extremely logical and intellectually curious. You like to keep to yourself, inviting the selected few to your Christmas party. Those who make your inner circle will be generously presented with savy techy goodies of your own making.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "34",
+   "label": "Santa from Miracle on the 34th Street",
+   "content": "<p><img alt=\\\"Santa\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824289922066.gif%%\\\" /></p><p>Dutiful, trustworthy, and empathic, you&#39;re as close as one can get to the real Santa Claus. Going the extra mile to make every child&#39;s wishes come true, you&#39;re a true embodiment of the Christmas spirit.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "35",
+   "label": "Bridget from Bridget Jones’s Diary",
+   "content": "<p>&nbsp;</p><p><img alt=\\\"Bridget Jones\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824289973158.gif%%\\\" /></p><p>Like Bridget Jones, you&#39;re emotional, imaginative, and slightly unpredictable. You&#39;ve got your head in the clouds and are likely to be found under the mistletoe, waiting for your Prince Charming. Christmas is about love, after all.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "36",
+   "label": "Billy Ray Valentine (Eddie Murphy) from Trading Places",
+   "content": "<p><img alt=\\\"Billy Ray Valentine\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290038531.gif%%\\\" /></p><p>Like Billy Ray Valentine from Trading Places, you&#39;re energetic, driven, and spontaneous. You&#39;ve got a head for business and will seize any opportunity to succeed. With your enthusiasm and charm, you&#39;re likely to shine at any party.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "37",
+   "label": "Elf from Elf",
+   "content": "<p><img alt=\\\"Elf\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290085293.gif%%\\\" /></p><p>Extremely sociable and outgoing, like Buddy the Elf, you&#39;re the life and soul of the (Christmas) party. Although irresistably charming, your spontaneous nature might throw the uptight types off balance.</p><p>&nbsp;</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "38",
+   "label": "Belle from Beauty and the Beast",
+   "content": "<p><img alt=\\\"Belle\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290132905.gif%%\\\" /></p><p>Humble, open-minded, and intellectually curious, you&#39;re Belle from the Beauty and the Beast. You&#39;re likely to be found by the fireplace, reading books. Deep and empathic, you see beauty inside of any beast.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "39",
+   "label": "Batman from Batman Returns",
+   "content": "<p><img alt=\\\"Batman \\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290147899.gif%%\\\" /></p><p>Fighting evil Penguins in this cold, cold night, you&#39;re Batman from Batman Returns. Strong-willed, traditional, and fair, you ensure that everyone is safe and cared for during this Christmas season.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "40",
+   "label": "Elsa from Frozen",
+   "content": "<p><img alt=\\\"Elsa\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290144355.gif%%\\\" /></p><p>Driven and confident, like Elsa from Frozen, you&#39;re the true (ice) queen of the Christmas party. Your slightly authoritative nature and innovative disposition might not be everyone&#39;s cup of eggnog, but you &#39;let it go&#39; and remain true to yourself- cold never bothered you anyway.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "41",
+   "label": "Kevin from Home Alone",
+   "content": "<p>&nbsp;</p><p><img alt=\\\"Kevin\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290144586.gif%%\\\" /></p><p>Curious, logical, and creative, you&#39;re Kevin from Home Alone. You don&#39;t mind spending Christmas alone - you&#39;re too busy inventing stuff anyway. Burglars stand no chance against your traps!</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "42",
+   "label": "Scrooge from A Christmas Carol",
+   "content": "<p><img alt=\\\"Scrooge\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290155629.gif%%\\\" /></p><p>Like Scrooge, you&#39;re tough, dominant, and driven - you&#39;re in it to win it. Be careful not to let your goals overshadow the real purpose of Christmas. Sometimes it&#39;s good to put them at the back seat and enjoy the slower pace of this festive season.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "43",
+   "label": "Mark Darcy from Bridget Jones’s Diary",
+   "content": "<p><img alt=\\\"Mark Darcy\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290163720.gif%%\\\" /></p><p>Fair, dutiful, and trustworthy, you&#39;re Mr Darcy from Bridget Jones&#39;s Diary. You&#39;re a true altruist caring about the &#39;Greater Good&#39;: you&#39;re likely to be found working for the local community or a charity, supporting their Christmas-time activities.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "44",
+   "label": "John McClane from Die Hard (the character described as ‘never-say-die maverick spirit’)",
+   "content": "<p><img alt=\\\"John McClane\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290163946.gif%%\\\" /></p><p>Energetic, curious, and excitement-seeking, like John McClane from Die Hard, you&#39;re not your usual Christmas hero. Constantly trying new things and seeking new challenges, Christmas with you is a roller coaster ride.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "45",
+   "label": "Sarah (Laura Linney) from Love Actually",
+   "content": "<p><img alt=\\\"Sarah\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290166900.gif%%\\\" /></p><p>Like Sarah from Love Actually, you&#39;re compassionate, warm, and extremely dependable. Christmas for you is about giving. You thrive taking care of others, always putting their wellbeing before yours.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "46",
+   "label": "Rudolph the red nosed reindeer",
+   "content": "<p><img alt=\\\"Rudolph\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290179602.gif%%\\\" /></p><p>You&#39;re Rudolph the red nosed reindeer. Creative, driven, and forward-thinking, you bring traditional sleigh-hauling to a whole new level. Christmas of your making might not suit everyone, but it sure will be an exciting ride.</p>",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "47",
+   "content": "<p><img alt=\\\"Frank Cross\\\" width=\\\"300\\\" height=\\\"300\\\" src=\\\"%%export14824290177872.gif%%\\\" /></p><p>Like Frank Cross from Scrooged, you&#39;re calculating, controlled, and driven. While you might not be the warm and fuzzy type, a Christmas party of your making can be compared to a Swiss watch; timely and well organized.</p>",
+   "content": "",
+   "scoreCondition": "0"
+  },
+  {
+   "id": "777777",
+   "label": "PschycAnswer",
+   "content": "",
+   "scoreCondition": "0"
+  }
+ ],
+ "settings": {
+  "id": "7",
+  "name": "ChristmasQuiz",
+  "authorId": "1",
+  "dateCreation": "1482372437",
+  "dateUpdate": "1482372960",
+  "score": 0,
+  "type": "WPVQGamePersonality",
+  "showSharing": "1",
+  "showCopyright": "0",
+  "askInformations": [
+   ""
+  ],
+  "forceToShare": [
+   ""
+  ],
+  "skin": "buzzfeed",
+  "randomQuestions": "0",
+  "isRandomAnswers": "0",
+  "meta": {
+   "playAgain": 1,
+   "hideRightWrong": 0,
+   "redirectionPage": ""
+  }
+ },
+ "content": [
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Your Christmas-time pleasure reading of choice... ",
+    "pictureId": "0",
+    "position": "1",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   "answers": [
+    {
+     "questionId": "35",
+     "content": "",
+     "label": "Reading? I only do TV.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "35",
+     "content": "",
+     "label": "Celebrity magazines.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "35",
+     "content": "",
+     "label": "An fun and easy novel",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "35",
+     "content": "",
+     "label": "Historlcal fiction or a pop science book.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "35",
+     "content": "",
+     "label": "Encyclopedia Britannica. The whole of it.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "On Christmas dinner you serve...",
+    "pictureId": "0",
+    "position": "2",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   "answers": [
+    {
+     "questionId": "36",
+     "content": "",
+     "label": "Traditional family recipes.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "36",
+     "content": "",
+     "label": "A selection of typical Christmas dishes.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "36",
+     "content": "",
+     "label": "A modern twist of famous classics.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "36",
+     "content": "",
+     "label": "A curry",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "36",
+     "content": "",
+     "label": "I want to try something new every year!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Your contribution to pre-Christmas household chores...",
+    "pictureId": "0",
+    "position": "3",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   "answers": [
+    {
+     "questionId": "37",
+     "content": "",
+     "label": "None, I flee the house.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "37",
+     "content": "",
+     "label": "I pretend to help out.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "37",
+     "content": "",
+     "label": "I do the bare minimum.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "37",
+     "content": "",
+     "label": "I do my share.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "37",
+     "content": "",
+     "label": "I do everything!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Your Christmas tree... ",
+    "pictureId": "0",
+    "position": "4",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   "answers": [
+    {
+     "questionId": "38",
+     "content": "",
+     "label": "So chaotic it no longer looks like a Christmas tree.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "38",
+     "content": "",
+     "label": "A wee messy... these Christmas lights tangle so easily!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "38",
+     "content": "",
+     "label": "An average Christmas tree.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "38",
+     "content": "",
+     "label": "I put the effort to make it nice and neat.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "38",
+     "content": "",
+     "label": "True masterpiece - like a postcard.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Let\\'s sing some Christmas carols!",
+    "pictureId": "0",
+    "position": "5",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   "answers": [
+    {
+     "questionId": "39",
+     "content": "",
+     "label": "Uh, no thanks!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "39",
+     "content": "",
+     "label": "I won\\'t sing, but don\\'t mind tagging along.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "39",
+     "content": "",
+     "label": "Okay, if I must.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "39",
+     "content": "",
+     "label": "Gladly.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "39",
+     "content": "",
+     "label": "Yay! Pass me the mic!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Your ideal Christmas party...",
+    "pictureId": "0",
+    "position": "6",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   "answers": [
+    {
+     "questionId": "40",
+     "content": "",
+     "label": "Me, myself, and I.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "40",
+     "content": "",
+     "label": "Quiet evening with my other half.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "40",
+     "content": "",
+     "label": "A small gathering.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "40",
+     "content": "",
+     "label": "All my friends in the pub being merry.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "40",
+     "content": "",
+     "label": "I\\'m a social animal, bring on the office party!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "On Boxing Day you...",
+    "pictureId": "0",
+    "position": "7",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   "answers": [
+    {
+     "questionId": "41",
+     "content": "",
+     "label": "In bed. All day!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "41",
+     "content": "",
+     "label": "Curled up on the sofa in front of the TV",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "41",
+     "content": "",
+     "label": "Out for a walk in the park",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "41",
+     "content": "",
+     "label": "Practicing my pirrouette at the local ice-rink",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "41",
+     "content": "",
+     "label": "On the slopes, skiboarding",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "You think that the office Christmas jumper day is cringe-worthy, but your colleagues are adamant you wear one...",
+    "pictureId": "0",
+    "position": "8",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "42",
+     "content": "",
+     "label": "No way I'll do it.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "42",
+     "content": "",
+     "label": "After much nagging I'll wear it for a bit.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "42",
+     "content": "",
+     "label": "It will take some convincing, but I'll eventually do it. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "42",
+     "content": "",
+     "label": "I guess I can do it... doesn't cost me much anyway.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "42",
+     "content": "",
+     "label": "Sure! It's important to my colleagues!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "The kids next door destroyed your snowman...",
+    "pictureId": "0",
+    "position": "9",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "43",
+     "content": "",
+     "label": "Surely they didn't mean it.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "43",
+     "content": "",
+     "label": "A bit upset, but now there's more snow to build another one.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "43",
+     "content": "",
+     "label": "Angry, but will get over it in a couple of hours.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "43",
+     "content": "",
+     "label": "I'm fuming, already plotting my revenge.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "43",
+     "content": "",
+     "label": "This. Means. War.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "The end of holidays- time to go back to \\'normal life\\'...",
+    "pictureId": "0",
+    "position": "10",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "44",
+     "content": "",
+     "label": "Looking forward to what's ahead!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "44",
+     "content": "",
+     "label": "I'm sure it will be ok.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "44",
+     "content": "",
+     "label": "Gotta chug along...",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "44",
+     "content": "",
+     "label": "So stressed!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "44",
+     "content": "",
+     "label": "Wake me up when it's all over...",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Your best friend didn\\'t get you a Christmas present...",
+    "pictureId": "0",
+    "position": "11",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "45",
+     "content": "",
+     "label": "Christmas is about giving anyway!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "45",
+     "content": "",
+     "label": "That's ok, the other gifts were great.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "45",
+     "content": "",
+     "label": "I'm sad but I'm sure it was nothing personal.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "45",
+     "content": "",
+     "label": "I lock myself in my room and sulk all Christmas",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "45",
+     "content": "",
+     "label": "They clearly don't care about me at all!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "It\\'s Christmas night and a homeless person knocks on your door. You...",
+    "pictureId": "0",
+    "position": "12",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "46",
+     "content": "",
+     "label": "Don't hear anything.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "46",
+     "content": "",
+     "label": "Feel sorry... but what if he/she's a robber?! ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "46",
+     "content": "",
+     "label": "Here's some food; Merry Christmas!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "46",
+     "content": "",
+     "label": "Oh, come in for dinner!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "46",
+     "content": "",
+     "label": "Let me help you find a job and place to live!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Turns out your in-laws celebrate Christmas completely differently to your family...",
+    "pictureId": "0",
+    "position": "13",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "47",
+     "content": "",
+     "label": "Don't get it, won't participate.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "47",
+     "content": "",
+     "label": "I struggle fitting in, but give it my best shot. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "47",
+     "content": "",
+     "label": "Well, it's not the way we do it, but I join in. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "47",
+     "content": "",
+     "label": "I'll participate and might even introduce some of my traditions!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "47",
+     "content": "",
+     "label": "Fit in straight away like I'm one of the family. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "Christmas - the time to start thinking about New Year\\'s resultions...",
+    "pictureId": "0",
+    "position": "14",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "48",
+     "content": "",
+     "label": "Nope.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "48",
+     "content": "",
+     "label": "I'll pick one - let's be realistic. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "48",
+     "content": "",
+     "label": "I'll pick a couple and carry them through",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "48",
+     "content": "",
+     "label": "I'll cover half of my bucket list.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "48",
+     "content": "",
+     "label": "I'll climb Mt. Everest!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "When playing monopoly with your family...",
+    "pictureId": "0",
+    "position": "15",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "49",
+     "content": "",
+     "label": "Staying out of it - hate the competition",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "49",
+     "content": "",
+     "label": "I play just for fun",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "49",
+     "content": "",
+     "label": "If I win- brilliant. If not- it's not the end of the world. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "49",
+     "content": "",
+     "label": "I try my best to win. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "49",
+     "content": "",
+     "label": "In it to win it.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "When organizing a ski trip with friends...",
+    "pictureId": "0",
+    "position": "16",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "50",
+     "content": "",
+     "label": "Happy for somebody else to take the lead.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "50",
+     "content": "",
+     "label": "I'll express my preferences, but won't take the lead.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "50",
+     "content": "",
+     "label": "Let's plan it all together!",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "50",
+     "content": "",
+     "label": "Will take others' opinions into account - to an extent.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "50",
+     "content": "",
+     "label": "Everything has to be the way I want it.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": {
+    "quizId": "7",
+    "content": "",
+    "label": "The gift you\\'d like to see under the Christmas Tree this year...",
+    "pictureId": "0",
+    "position": "17",
+    "isRandomAnswers": "0",
+    "pageAfter": "1"
+   },
+   
+
+   "answers": [
+    {
+     "questionId": "51",
+     "content": "",
+     "label": "Money. I hate surprises and prefer to buy my own present.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "10"
+      }
+     ]
+    },
+    {
+     "questionId": "51",
+     "content": "",
+     "label": "An item from the wish list I made months ago.",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "30"
+      }
+     ]
+    },
+    {
+     "questionId": "51",
+     "content": "",
+     "label": "As long as it's a techy toy, I don't mind. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "50"
+      }
+     ]
+    },
+    {
+     "questionId": "51",
+     "content": "",
+     "label": "As long as it doesn't shock me, I don't mind being surprised. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "70"
+      }
+     ]
+    },
+    {
+     "questionId": "51",
+     "content": "",
+     "label": "I don't wanna know- it's half the fun. ",
+     "pictureId": "0",
+     "weight": "0",
+     "multipliers": [
+      {
+       "appreciationId": 32,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 33,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 34,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 35,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 36,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 37,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 38,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 39,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 40,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 41,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 42,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 43,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 44,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 45,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 46,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 47,
+       "multiplier": "0"
+      },
+      {
+       "appreciationId": 777777,
+       "multiplier": "90"
+      }
+     ]
+    }
+   ]
+  
+  }
+ ],
+ "players": [],
+ "extraOptions": {
+  "squeezePage": "0",
+  "refreshBrowser": "0",
+  "forceContinueButton": "0"
+ }
+}
